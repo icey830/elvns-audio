@@ -1,5 +1,5 @@
-# netmusic-node
-网易云音乐接口
+# elvns-audio
+ELVNS音乐接口
 
 ```
 npm i 
